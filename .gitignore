@@ -2,3 +2,4 @@
 *.ods
 *.exe
 *.log
+/shape
