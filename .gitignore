@@ -4,3 +4,4 @@
 *.log
 /shape
 /geojson
+*.txt
